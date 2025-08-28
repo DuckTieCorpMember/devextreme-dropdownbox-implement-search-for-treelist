@@ -10,7 +10,7 @@ This example illustrates how to implement search for TreeList.
 
 The search feature is implemented in the DropDownBox component's [onInput](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxDropDownBox/Configuration/#onInput) event handler. This modifies the TreeList's searchPanel [text](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxTreeList/Configuration/searchPanel/#text) property. The TreeList's [onSelectionChanged](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxTreeList/Configuration/#onSelectionChanged) event handler updates the DropDownBox's value. The keyboard navigation using the arrow down key is implemented in the DropDownBox's [onKeyDown](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxDropDownBox/Configuration/#onKeyDown) event handler.
 
-<div align="center"><img alt="DropDownBox for DevExtreme - How to implement search for TreeList" src="dx-dropdownbox-implement-search-for-treelist.png" /></div>
+<div align="center"><img alt="DropDownBox for DevExtreme - How to implement search for TreeList" src="images/dx-dropdownbox-implement-search-for-treelist.png" /></div>
 
 ## Files to Review
 
@@ -21,7 +21,7 @@ The search feature is implemented in the DropDownBox component's [onInput](https
     - [index.html](jQuery/src/index.html)
     - [index.js](jQuery/src/index.js)
 - **ASP.NET**    
-    - [Index.cshtml](ASP.NET/Views/Home/Index.cshtml)
+    - [Index.cshtml](ASP.NET%20Core/Views/Home/Index.cshtml)
 
 ## Documentation
 
