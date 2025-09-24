@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ASP_NET_Core.Models;
-static class SampleData {
+static partial class SampleData {
     public static List<SampleOrder> Orders = [
         new SampleOrder {
             OrderID = 10248,
